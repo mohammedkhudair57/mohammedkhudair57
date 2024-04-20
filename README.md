@@ -1,5 +1,7 @@
 ### About me
 
+<!-- TO DO: add more details about me later -->
+
 
 **mohammedkhudair57/mohammedkhudair57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,3 +15,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<details>
+<summary>My top THINGS-TO-RANK</summary>
+  
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| Python    |
+|     3| SQL       |
+
+</details>
+
+---
+>  If we pull together and commit ourselves, then we can push through anything.
